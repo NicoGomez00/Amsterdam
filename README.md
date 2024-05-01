@@ -1,5 +1,6 @@
-# Amsterdam Web-Site Desing
+# Amsterdam Website Desing
 
-Diseño de pagina web con la intencion de ser una guia turistica de Amsterdam que contiene un juego de trivia realizado en JS
+Website designed with bootstrap adapted for mobile devices, plus a small trivia game made with Javascript
 
 
+https://nicogomez00.github.io/Amsterdam/
